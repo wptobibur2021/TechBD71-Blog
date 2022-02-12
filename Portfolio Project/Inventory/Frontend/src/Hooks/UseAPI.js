@@ -6,7 +6,7 @@ const UseAPI = () =>{
     * Local: http://localhost:5080/api/
     * Online: https://arcane-stream-32884.herokuapp.com/
     * */
-    const url = "https://arcane-stream-32884.herokuapp.com/api/"
+    const url = "http://localhost:5080/api/"
     const {successNotify, errorNotify} = useNotification()
     /*
     * ===============
